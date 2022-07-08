@@ -1,0 +1,19 @@
+.color-fondo{
+    background-color:rgba(1, 1, 61, 0.979);
+}
+
+.color-carta{
+    background-color: rgba(0, 0, 99, 0.849);
+}
+
+.color-letra{
+    color:grey;
+}
+
+.color-logo{
+    color: aqua;
+}
+
+.tamaño-letra{
+    font-size: 15px;
+}
